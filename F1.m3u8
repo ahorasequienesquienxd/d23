@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
 http://dns.vip-kings-cr-tv.vip:2095/live/Uy5rygyg69/9ab26ba1/1873115.m3u8
